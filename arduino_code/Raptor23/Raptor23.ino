@@ -81,8 +81,8 @@ using namespace arduino_pixel;
 // ============================================================================
 // == Please specify the following parameters =================================
 // ================================================================== start ===
-const char ssid[] = "MTMzN0hAeDBycwo=";
-const char pass[] = "Security 1$ Fun!";
+const char ssid[] = "WebServerSSID23";
+const char pass[] = "23isNeato";
 static IPAddress ip(192, 168, 1, 212);
 static IPAddress gateway(192, 168, 1, 1);
 static IPAddress subnet(255, 255, 255, 0);
